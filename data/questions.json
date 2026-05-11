@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "dim": "VI",
+    "text": "如果有人路过你 —— 你最希望对方的第一反应是?",
+    "scenario_emoji": "👀",
+    "bubble": "被打量瞬间",
+    "avatar": "images/rose.png",
+    "options": [
+      {
+        "label": "「哇这个最显眼」(你就吃这种眼光)",
+        "score": 1,
+        "pets": [
+          "hydrangea",
+          "ranunculus",
+          "sunflower",
+          "tulip"
+        ]
+      },
+      {
+        "label": "停下来看一眼,笑一下,然后走开",
+        "score": 0,
+        "pets": [
+          "fiddle_leaf_fig",
+          "forget_me_not",
+          "lavender",
+          "mimosa",
+          "peach_tan",
+          "sakura"
+        ]
+      },
+      {
+        "label": "没注意到也行,你其实不太爱被打量",
+        "score": -1,
+        "pets": [
+          "daisy",
+          "dandelion",
+          "lily_of_valley",
+          "monstera"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "dim": "VI",
+    "text": "如果有人给你拍照,你希望镜头怎么对待你?",
+    "scenario_emoji": "📸",
+    "bubble": "被拍照瞬间",
+    "avatar": "images/hydrangea.png",
+    "options": [
+      {
+        "label": "饱和度拉满,把你拍得像油画封面",
+        "score": 1,
+        "pets": [
+          "hyacinth",
+          "ranunculus",
+          "rose",
+          "tulip",
+          "wisteria"
+        ]
+      },
+      {
+        "label": "原图直出,自然就好看",
+        "score": 0,
+        "pets": [
+          "anemone",
+          "forget_me_not",
+          "jasmine",
+          "mimosa",
+          "moon_rabbit",
+          "sakura",
+          "water_lily"
+        ]
+      },
+      {
+        "label": "降饱和加奶油滤镜,雾蒙蒙的才是你的格调",
+        "score": -1,
+        "pets": [
+          "babys_breath",
+          "dandelion",
+          "haworthia",
+          "monstera",
+          "pothos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "dim": "VI",
+    "text": "我就属于那种「就是要被看见」的存在。",
+    "scenario_emoji": "🎨",
+    "bubble": "被看见量表",
+    "avatar": "images/sunflower.png",
+    "options": [
+      {
+        "label": "对,越艳越好,我生来就要发光",
+        "score": 1,
+        "pets": [
+          "hyacinth",
+          "hydrangea",
+          "rose",
+          "sunflower",
+          "wisteria"
+        ]
+      },
+      {
+        "label": "中立,看场合,也想偶尔低调",
+        "score": 0,
+        "pets": [
+          "anemone",
+          "fiddle_leaf_fig",
+          "jasmine",
+          "lavender",
+          "moon_rabbit",
+          "peach_tan",
+          "water_lily"
+        ]
+      },
+      {
+        "label": "不对,素净耐看才是我的本事",
+        "score": -1,
+        "pets": [
+          "babys_breath",
+          "daisy",
+          "haworthia",
+          "lily_of_valley",
+          "pothos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "dim": "EH",
+    "text": "一天里哪个时段你最「活」?",
+    "scenario_emoji": "☀️",
+    "bubble": "最活时段",
+    "avatar": "images/sunflower.png",
+    "options": [
+      {
+        "label": "正午大太阳,你直接元气拉满",
+        "score": 1,
+        "pets": [
+          "dandelion",
+          "mimosa",
+          "sunflower",
+          "tulip"
+        ]
+      },
+      {
+        "label": "上午到下午都还行,平稳输出",
+        "score": 0,
+        "pets": [
+          "forget_me_not",
+          "haworthia",
+          "hydrangea",
+          "jasmine",
+          "peach_tan",
+          "pothos",
+          "sakura"
+        ]
+      },
+      {
+        "label": "傍晚之后才慢慢有精神,白天蔫得很",
+        "score": -1,
+        "pets": [
+          "babys_breath",
+          "lavender",
+          "moon_rabbit",
+          "water_lily"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "dim": "EH",
+    "text": "你被发现状态最好的瞬间是?",
+    "scenario_emoji": "🌞",
+    "bubble": "最佳状态",
+    "avatar": "images/lavender.png",
+    "options": [
+      {
+        "label": "大晴天阳台正中,叶片闪闪发光",
+        "score": 1,
+        "pets": [
+          "daisy",
+          "mimosa",
+          "rose",
+          "tulip"
+        ]
+      },
+      {
+        "label": "明亮散光的窗边,不张扬但精神",
+        "score": 0,
+        "pets": [
+          "fiddle_leaf_fig",
+          "haworthia",
+          "hyacinth",
+          "jasmine",
+          "monstera",
+          "pothos",
+          "ranunculus"
+        ]
+      },
+      {
+        "label": "阴雨天的角落,你反而最舒服",
+        "score": -1,
+        "pets": [
+          "anemone",
+          "lavender",
+          "lily_of_valley",
+          "water_lily",
+          "wisteria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "dim": "EH",
+    "text": "我就属于 24 小时自带电量、随时想冒新芽的那种。",
+    "scenario_emoji": "⚡",
+    "bubble": "元气电量量表",
+    "avatar": "images/dandelion.png",
+    "options": [
+      {
+        "label": "对,我就是植物界人形充电宝",
+        "score": 1,
+        "pets": [
+          "daisy",
+          "dandelion",
+          "rose",
+          "sunflower"
+        ]
+      },
+      {
+        "label": "中立,看天气看心情",
+        "score": 0,
+        "pets": [
+          "fiddle_leaf_fig",
+          "forget_me_not",
+          "hyacinth",
+          "hydrangea",
+          "monstera",
+          "peach_tan",
+          "ranunculus",
+          "sakura"
+        ]
+      },
+      {
+        "label": "不对,我就爱安静地慢慢长",
+        "score": -1,
+        "pets": [
+          "anemone",
+          "babys_breath",
+          "lily_of_valley",
+          "moon_rabbit",
+          "wisteria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "dim": "RD",
+    "text": "夕阳铺到你身上,你的反应是?",
+    "scenario_emoji": "🌅",
+    "bubble": "夕阳落到身上",
+    "avatar": "images/ranunculus.png",
+    "options": [
+      {
+        "label": "整个进入电影定格,自带粉雾镀金",
+        "score": 1,
+        "pets": [
+          "forget_me_not",
+          "hyacinth",
+          "lavender",
+          "lily_of_valley",
+          "rose",
+          "sakura",
+          "water_lily",
+          "wisteria"
+        ]
+      },
+      {
+        "label": "嗯,挺暖的,安静晒着就好",
+        "score": 0,
+        "pets": [
+          "fiddle_leaf_fig",
+          "haworthia",
+          "mimosa",
+          "monstera",
+          "peach_tan",
+          "sunflower"
+        ]
+      },
+      {
+        "label": "光太刺眼,你想往阴影里躲一躲",
+        "score": -1,
+        "pets": [
+          "dandelion",
+          "pothos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "dim": "RD",
+    "text": "你最适合出现在哪种童话感的场景里?",
+    "scenario_emoji": "🧚",
+    "bubble": "童话画面",
+    "avatar": "images/sakura.png",
+    "options": [
+      {
+        "label": "月光城堡的塔尖花瓶,你是公主同款",
+        "score": 1,
+        "pets": [
+          "anemone",
+          "hyacinth",
+          "hydrangea",
+          "lily_of_valley",
+          "ranunculus",
+          "sakura",
+          "tulip",
+          "wisteria"
+        ]
+      },
+      {
+        "label": "森林木屋的小窗台,安静长成小景",
+        "score": 0,
+        "pets": [
+          "babys_breath",
+          "haworthia",
+          "jasmine",
+          "monstera",
+          "moon_rabbit",
+          "sunflower"
+        ]
+      },
+      {
+        "label": "童话什么的,你觉得野地野长更自在",
+        "score": -1,
+        "pets": [
+          "daisy",
+          "pothos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "dim": "RD",
+    "text": "我天生自带浪漫滤镜,随便一阵风都能开花。",
+    "scenario_emoji": "🦄",
+    "bubble": "梦幻浓度量表",
+    "avatar": "images/wisteria.png",
+    "options": [
+      {
+        "label": "对,我就是梦做太多容易掉线那挂",
+        "score": 1,
+        "pets": [
+          "anemone",
+          "forget_me_not",
+          "hydrangea",
+          "lavender",
+          "ranunculus",
+          "rose",
+          "tulip",
+          "water_lily"
+        ]
+      },
+      {
+        "label": "中立,偶尔也会发呆做梦",
+        "score": 0,
+        "pets": [
+          "babys_breath",
+          "fiddle_leaf_fig",
+          "jasmine",
+          "mimosa",
+          "moon_rabbit",
+          "peach_tan"
+        ]
+      },
+      {
+        "label": "不对,我脚踏实地,泥里也能活",
+        "score": -1,
+        "pets": [
+          "daisy",
+          "dandelion"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "dim": "LH",
+    "text": "如果有人开始养你 —— 你期待的照顾频率是?",
+    "scenario_emoji": "🪴",
+    "bubble": "被养的姿态",
+    "avatar": "images/pothos.png",
+    "options": [
+      {
+        "label": "丢哪儿都行,你自己活着,别人别管",
+        "score": 1,
+        "pets": [
+          "daisy",
+          "dandelion",
+          "moon_rabbit",
+          "peach_tan"
+        ]
+      },
+      {
+        "label": "想起来浇个水就好,别太上心",
+        "score": 0,
+        "pets": [
+          "hyacinth",
+          "jasmine",
+          "mimosa",
+          "monstera",
+          "sunflower",
+          "tulip"
+        ]
+      },
+      {
+        "label": "定时定量,光照湿度施肥都按攻略来",
+        "score": -1,
+        "pets": [
+          "fiddle_leaf_fig",
+          "hydrangea",
+          "ranunculus",
+          "rose"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "dim": "LH",
+    "text": "如果养你的人忘了浇水,你的反应是?",
+    "scenario_emoji": "💧",
+    "bubble": "被忘了浇水",
+    "avatar": "images/haworthia.png",
+    "options": [
+      {
+        "label": "你继续自己活,没浇就没浇呗",
+        "score": 1,
+        "pets": [
+          "babys_breath",
+          "dandelion",
+          "haworthia",
+          "peach_tan",
+          "pothos"
+        ]
+      },
+      {
+        "label": "叶子稍微蔫一下提醒一下,不行就摆烂",
+        "score": 0,
+        "pets": [
+          "forget_me_not",
+          "jasmine",
+          "lavender",
+          "monstera",
+          "sakura",
+          "tulip",
+          "water_lily"
+        ]
+      },
+      {
+        "label": "委屈到怀疑花生,必须立刻按教程救回来",
+        "score": -1,
+        "pets": [
+          "anemone",
+          "hydrangea",
+          "lily_of_valley",
+          "rose",
+          "wisteria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "dim": "LH",
+    "text": "我就属于「谁照顾我都得按我的方式来」的讲究型。",
+    "scenario_emoji": "🔍",
+    "bubble": "讲究度量表",
+    "avatar": "images/ranunculus.png",
+    "options": [
+      {
+        "label": "不对,我差不多就行,别为难自己",
+        "score": 1,
+        "pets": [
+          "babys_breath",
+          "daisy",
+          "haworthia",
+          "moon_rabbit",
+          "pothos"
+        ]
+      },
+      {
+        "label": "中立,小事将就大事讲究",
+        "score": 0,
+        "pets": [
+          "forget_me_not",
+          "hyacinth",
+          "lavender",
+          "mimosa",
+          "sakura",
+          "sunflower",
+          "water_lily"
+        ]
+      },
+      {
+        "label": "对,我是细节控,土壤温湿一项都不能凑合",
+        "score": -1,
+        "pets": [
+          "anemone",
+          "fiddle_leaf_fig",
+          "lily_of_valley",
+          "ranunculus",
+          "wisteria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "dim": "SP",
+    "text": "如果你是被送出的花束,你希望在什么时机出场?",
+    "scenario_emoji": "🎀",
+    "bubble": "被赠送的时机",
+    "avatar": "images/sakura.png",
+    "options": [
+      {
+        "label": "限定大日子,你一年就开这一次",
+        "score": 1,
+        "pets": [
+          "dandelion",
+          "forget_me_not",
+          "hydrangea",
+          "lavender",
+          "ranunculus",
+          "sakura",
+          "tulip",
+          "water_lily"
+        ]
+      },
+      {
+        "label": "看时机,随缘出现也行",
+        "score": 0,
+        "pets": [
+          "mimosa",
+          "rose"
+        ]
+      },
+      {
+        "label": "随时都行,你常年在线常驻嘉宾",
+        "score": -1,
+        "pets": [
+          "fiddle_leaf_fig",
+          "haworthia",
+          "monstera",
+          "moon_rabbit",
+          "pothos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "dim": "SP",
+    "text": "你最想在什么场合被看见?",
+    "scenario_emoji": "🌸",
+    "bubble": "出场场合",
+    "avatar": "images/wisteria.png",
+    "options": [
+      {
+        "label": "一年一次的大型花展,你就是限定主角",
+        "score": 1,
+        "pets": [
+          "anemone",
+          "forget_me_not",
+          "hyacinth",
+          "lavender",
+          "lily_of_valley",
+          "sakura",
+          "sunflower",
+          "water_lily",
+          "wisteria"
+        ]
+      },
+      {
+        "label": "偶尔的小展或集市,顺势出现",
+        "score": 0,
+        "pets": [
+          "daisy",
+          "rose"
+        ]
+      },
+      {
+        "label": "每天的飘窗咖啡店,你就爱日常感",
+        "score": -1,
+        "pets": [
+          "babys_breath",
+          "haworthia",
+          "jasmine",
+          "moon_rabbit",
+          "peach_tan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "dim": "SP",
+    "text": "我是季节限定款,不是常驻嘉宾。",
+    "scenario_emoji": "🍂",
+    "bubble": "季节限定量表",
+    "avatar": "images/tulip.png",
+    "options": [
+      {
+        "label": "对,错过这季就要等一年",
+        "score": 1,
+        "pets": [
+          "anemone",
+          "dandelion",
+          "hyacinth",
+          "hydrangea",
+          "lily_of_valley",
+          "ranunculus",
+          "sunflower",
+          "tulip",
+          "wisteria"
+        ]
+      },
+      {
+        "label": "中立,看心情看气候",
+        "score": 0,
+        "pets": [
+          "daisy",
+          "mimosa"
+        ]
+      },
+      {
+        "label": "不对,我是四季常青那种",
+        "score": -1,
+        "pets": [
+          "babys_breath",
+          "fiddle_leaf_fig",
+          "jasmine",
+          "monstera",
+          "peach_tan",
+          "pothos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "dim": "GA",
+    "text": "如果你被种下,你想被种在哪种位置?",
+    "scenario_emoji": "🌾",
+    "bubble": "种植位",
+    "avatar": "images/babys_breath.png",
+    "options": [
+      {
+        "label": "一大片同类簇拥着,你喜欢热闹花海",
+        "score": 1,
+        "pets": [
+          "daisy",
+          "dandelion",
+          "hyacinth",
+          "hydrangea",
+          "lavender",
+          "lily_of_valley",
+          "sunflower",
+          "tulip"
+        ]
+      },
+      {
+        "label": "和两三株不同伙伴随意搭配也行",
+        "score": 0,
+        "pets": [
+          "peach_tan",
+          "pothos",
+          "rose",
+          "water_lily"
+        ]
+      },
+      {
+        "label": "独株一盆 C 位,你一个人就够撑场",
+        "score": -1,
+        "pets": [
+          "haworthia",
+          "mimosa",
+          "moon_rabbit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "dim": "GA",
+    "text": "如果你是被送出的花,你想以什么形态被送出?",
+    "scenario_emoji": "🎁",
+    "bubble": "出场形态",
+    "avatar": "images/lavender.png",
+    "options": [
+      {
+        "label": "一大捧铺满怀里的捧花,你要数量取胜",
+        "score": 1,
+        "pets": [
+          "babys_breath",
+          "dandelion",
+          "forget_me_not",
+          "hydrangea",
+          "jasmine",
+          "lily_of_valley",
+          "sakura",
+          "tulip",
+          "wisteria"
+        ]
+      },
+      {
+        "label": "看送花的人和场合,数量随意",
+        "score": 0,
+        "pets": [
+          "anemone",
+          "pothos",
+          "ranunculus",
+          "water_lily"
+        ]
+      },
+      {
+        "label": "单支或一株精致盆栽,你靠质感取胜",
+        "score": -1,
+        "pets": [
+          "fiddle_leaf_fig",
+          "mimosa",
+          "monstera"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "dim": "GA",
+    "text": "我喜欢热闹,一片同类才有意思。",
+    "scenario_emoji": "🌼",
+    "bubble": "群植浓度量表",
+    "avatar": "images/daisy.png",
+    "options": [
+      {
+        "label": "对,我要扎堆要簇拥,越多越满足",
+        "score": 1,
+        "pets": [
+          "babys_breath",
+          "daisy",
+          "forget_me_not",
+          "hyacinth",
+          "jasmine",
+          "lavender",
+          "sakura",
+          "sunflower",
+          "wisteria"
+        ]
+      },
+      {
+        "label": "中立,看花型搭配",
+        "score": 0,
+        "pets": [
+          "anemone",
+          "peach_tan",
+          "ranunculus",
+          "rose"
+        ]
+      },
+      {
+        "label": "不对,一株主角就够,我独自闪光",
+        "score": -1,
+        "pets": [
+          "fiddle_leaf_fig",
+          "haworthia",
+          "monstera",
+          "moon_rabbit"
+        ]
+      }
+    ]
+  }
+]
