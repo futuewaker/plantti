@@ -139,15 +139,15 @@ img { display: block; max-width: 100%; image-rendering: pixelated; image-renderi
 /* BIG pixel title "CatTi" */
 .title-pixel {
   font-family: var(--font-pixel);
-  font-size: 65px;
+  font-size: clamp(36px, 11vw, 56px);
   color: var(--text);
-  letter-spacing: 0.06em;
+  letter-spacing: 0.04em;
   line-height: 1;
   margin-top: 6px;
   font-weight: 900;
   text-transform: uppercase;
   -webkit-text-stroke: 2px var(--text);
-  text-shadow: 5px 5px 0 var(--primary);
+  text-shadow: 4px 4px 0 var(--primary);
   /* pixel-perfect rendering */
   -webkit-font-smoothing: none;
   -moz-osx-font-smoothing: auto;
