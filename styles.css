@@ -116,7 +116,7 @@ img { display: block; max-width: 100%; image-rendering: pixelated; image-renderi
 
 .scroll-row .pet {
   flex-shrink: 0;
-  width: 163px; height: 163px;
+  width: 83px; height: 83px;
   background: transparent;
   padding: 0;
   display: grid; place-items: center;
@@ -692,7 +692,7 @@ img { display: block; max-width: 100%; image-rendering: pixelated; image-renderi
   padding: 12px;
 }
 .pixel-avatar-lg {
-  width: 338px; height: 338px;
+  width: 173px; height: 173px;
   border-radius: 28px;
   padding: 16px;
   box-shadow: 6px 6px 0 var(--primary);
